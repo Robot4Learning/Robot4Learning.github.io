@@ -5,12 +5,111 @@
     <link>https://Robot4Learning.github.io/event/</link>
       <atom:link href="https://Robot4Learning.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Past &amp; Upcoming Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Robot4Learning.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Past &amp; Upcoming Events</title>
       <link>https://Robot4Learning.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>R4L @HRI 2021</title>
+      <link>https://Robot4Learning.github.io/event/hri2021/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/event/hri2021/</guid>
+      <description>&lt;p&gt;Imagine a person engaged in a learning activity, be it solving math exercises with pen and paper or practicing a second language by playing a memory game with a social robot. In both cases, the activity has superficial, visible goals (to find the solution of the equation, to score more points than the other player) covering the deeper, more elusive goal of helping the person learn. In the specific case of learning activities involving social robot, this double-layered structure makes the design of the robot’s behaviour a fascinating challenge: while it is relatively straightforward to design a robot that’s a fierce competitor at a memory game, it is much less clear to envision how it should behave to support its human counterpart in learning. Similarly, the design of the experiment allowing for evaluating the robot’s behaviour, as well as the robot-enhanced learning activity as a whole, becomes at once crucial and non trivial.&lt;/p&gt;
+&lt;p&gt;In this 6th edition of the “Robots for Learning” workshop, international experts in the field will share their knowledge concerning the design of social robot behaviours which support learning, their embedding in a learning activity and the evaluation of their impact through an experiment and the assessment of the person’s learning. The workshop is organized as a highly interactive event, in which participants are encouraged to bring case studies taken from their own research and discuss them in groups and with the experts.&lt;/p&gt;
+&lt;p&gt;The workshop will be online (e.g Zoom) and highly interactive. Participants will be asked to prepare the workshop by 1/ answering some questions related to their work and 2/ doing some reading prior to the workshop. The workshop will have two types of session:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Keynotes: invited senior researchers will share their perspectives and experiences on the field of technologies for education. They will be recorded to allow all participants watch them on-demand.&lt;/li&gt;
+&lt;li&gt;Units: Each unit will aim to look at the participants&#39; work with a certain angle, and will start with a short intro on the topic followed by a group work. Participants will be given tools to help them answer the questions relatively to their planned study/research.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Call for interest:&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;20 December 2020&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Submission deadline:&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;30 January 2021&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Notifications:&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;7 February 2021&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;provisional-schedule&#34;&gt;Provisional schedule&lt;/h1&gt;
+&lt;p&gt;We present below the schedule for the workshop. Depending on the registered participants, we will align the schedule to the adequate time zones. We also investigate the possibility of having the workshop in several instances to suit several time zones. The keynotes times will be fixed, but the rest is kept open depending on participants.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;20min&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;30+15min&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Keynote 1&lt;/strong&gt;: Cases of Social Robots in Education &lt;br&gt; Hae Won Park (MIT, USA) - confirmed&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20min intro &lt;br&gt; 30min group work &lt;br&gt; 10min discussion&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Unit1 - Background&lt;/strong&gt; &lt;br&gt; What do we know so far from the state of the art? &lt;br&gt; Learning Theories and Technologies for Learning &lt;br&gt; Robots in Education&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20min intro &lt;br&gt; 30min group work &lt;br&gt; 10min discussion&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Unit 2 - Design&lt;/strong&gt; &lt;br&gt; What? When? Who? Why? &lt;br&gt; Using backward design process  &lt;br&gt; Integrating the robot  &lt;br&gt; Adapting to students&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20min intro  &lt;br&gt; 30min group work &lt;br&gt; 10min discussion&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Unit 3 - Evaluation&lt;/strong&gt; &lt;br&gt; How can we do the assessment before, during and after the experiment? &lt;br&gt; Learning gain, process analysis, self-reports, student knowledge modeling behavioural analysis, social signal processing, affective computing.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;30+15min&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Keynote 2&lt;/strong&gt;: Perspectives for social robots in learning &lt;br&gt; Tony Belpaeme (U. Ghent, Belgium) - confirmed&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;30min&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;target-audience&#34;&gt;Target Audience&lt;/h1&gt;
+&lt;p&gt;We invite participants to report previous or planned research, practice and interest in developing applications in social robots for learning. Researchers from HRI, robotics and educational backgrounds are invited to contribute.&lt;/p&gt;
+&lt;p&gt;Authors will be invited to &lt;strong&gt;submit a case study on which they will be working during the workshop&lt;/strong&gt;. To present their case study, we will ask them to answer several questions in line with the units of the workshop. During the workshop, they will present to their peers their answer/implementation of the concepts for each unit and receive feedback. Priority will be given to case studies which fit the theme of the call, which are complementary, and which offer a range of theoretical and cultural perspectives.&lt;/p&gt;
+&lt;h1 id=&#34;list-of-topics&#34;&gt;List of topics&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Adaptive mechanisms for robot tutors, personalization and adaptation algorithms for tutoring interactions&lt;/li&gt;
+&lt;li&gt;Design of autonomous systems for tutoring interactions&lt;/li&gt;
+&lt;li&gt;Theories and methods for tutoring (pedagogical and  language acquisition)&lt;/li&gt;
+&lt;li&gt;Shared knowledge and knowledge modelling in HRI&lt;/li&gt;
+&lt;li&gt;Human-robot collaborative learning&lt;/li&gt;
+&lt;li&gt;Attachment and learning with a social robot (social and cognitive development)&lt;/li&gt;
+&lt;li&gt;Engagement in educational human-robot interaction&lt;/li&gt;
+&lt;li&gt;Student-robot relationship assessment&lt;/li&gt;
+&lt;li&gt;Designing student models and assessing student’s learning&lt;/li&gt;
+&lt;li&gt;Playful learning with a robot&lt;/li&gt;
+&lt;li&gt;Impact of embodiment on learning&lt;/li&gt;
+&lt;li&gt;Technical innovation in learning or teaching robots&lt;/li&gt;
+&lt;li&gt;Long term learning interactions, design and methodologies for repeated human-robot encounters&lt;/li&gt;
+&lt;li&gt;Robots for learners with special needs and special abilities&lt;/li&gt;
+&lt;li&gt;Privacy and ethical issues in robot tutoring applications&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>R4L @RoMan 2019</title>
