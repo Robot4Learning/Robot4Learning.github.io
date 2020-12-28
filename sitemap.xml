@@ -63,41 +63,6 @@
   </url>
   
   <url>
-    <loc>https://Robot4Learning.github.io/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Robot4Learning.github.io/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Robot4Learning.github.io/authors/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Robot4Learning.github.io/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Robot4Learning.github.io/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Robot4Learning.github.io/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Robot4Learning.github.io/author/wafa-johal/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://Robot4Learning.github.io/tag/hri2019/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
@@ -163,18 +128,53 @@
   </url>
   
   <url>
-    <loc>https://Robot4Learning.github.io/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://Robot4Learning.github.io/publication-type/3/</loc>
+    <lastmod>2016-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Robot4Learning.github.io/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://Robot4Learning.github.io/author/alex-polishuk/</loc>
+    <lastmod>2016-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Robot4Learning.github.io/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://Robot4Learning.github.io/authors/</loc>
+    <lastmod>2016-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Robot4Learning.github.io/author/igor-verner/</loc>
+    <lastmod>2016-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Robot4Learning.github.io/publication/r4l_ro-man_2016_paper_1/</loc>
+    <lastmod>2016-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Robot4Learning.github.io/author/niv-krayner/</loc>
+    <lastmod>2016-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Robot4Learning.github.io/publication_types/</loc>
+    <lastmod>2016-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Robot4Learning.github.io/publication/</loc>
+    <lastmod>2016-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Robot4Learning.github.io/author/sergei-gamer/</loc>
+    <lastmod>2016-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Robot4Learning.github.io/publication/r4l_ro-man_2016_paper_2/</loc>
+    <lastmod>2016-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -207,6 +207,10 @@
   
   <url>
     <loc>https://Robot4Learning.github.io/author/severin-lemaignan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Robot4Learning.github.io/author/wafa-johal/</loc>
   </url>
   
 </urlset>

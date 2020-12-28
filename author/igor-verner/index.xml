@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Robots for Learning</title>
-    <link>https://Robot4Learning.github.io/publication/</link>
-      <atom:link href="https://Robot4Learning.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Igor Verner | Robots for Learning</title>
+    <link>https://Robot4Learning.github.io/author/igor-verner/</link>
+      <atom:link href="https://Robot4Learning.github.io/author/igor-verner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Igor Verner</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Aug 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Robot4Learning.github.io/images/icon_huf57b02b7bccacf3d0d3f8179f8f9f2ab_6251_512x512_fill_lanczos_center_2.png</url>
-      <title>Publications</title>
-      <link>https://Robot4Learning.github.io/publication/</link>
+      <title>Igor Verner</title>
+      <link>https://Robot4Learning.github.io/author/igor-verner/</link>
     </image>
     
     <item>
