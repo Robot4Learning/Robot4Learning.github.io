@@ -100,27 +100,53 @@
 &lt;li&gt;Privacy and ethical issues in robot tutoring applications&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;program&#34;&gt;Program&lt;/h1&gt;
-&lt;p&gt;9:00-9:05            Introduction
-9:05-9:40            Keynote Tony Belpaeme (30 min +5)
-9:40-10:30          Presentations (2 papers, 20 min +5 each)
-10:30-11:00        Coffee break
-11:00-11:50        Presentations (2 papers, 20 min +5 each)
-11:50-12:50        Semi-structured group discussions
-12:50-13:00        Conclusion &amp;amp; Wrap up&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;9:00-9:05&lt;/td&gt;
+&lt;td&gt;Introduction&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9:05-9:40&lt;/td&gt;
+&lt;td&gt;Keynote Tony Belpaeme (30 min +5)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9:40-10:30&lt;/td&gt;
+&lt;td&gt;Presentations (2 papers, 20 min +5 each)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:30-11:00&lt;/td&gt;
+&lt;td&gt;Coffee break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:00-11:50&lt;/td&gt;
+&lt;td&gt;Presentations (2 papers, 20 min +5 each)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:50-12:50&lt;/td&gt;
+&lt;td&gt;Semi-structured group discussions&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:50-13:00&lt;/td&gt;
+&lt;td&gt;Conclusion &amp;amp; Wrap up&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;h1 id=&#34;selected-papers&#34;&gt;Selected Papers&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;pre&gt;&lt;code&gt; Children’s anthropomorphism of second language robot tutors (Mirjam de Haas, Rianne van den Berghe, Paul Leseman, Emiel Krahmer, Josje Verhagen, Paul Vogt, Bram Willemsen and Jan de Wit)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;pre&gt;&lt;code&gt; Storytelling with a social robot (Nicole Goossens, Rian Aarts and Paul Vogt) 
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;pre&gt;&lt;code&gt; Effective robot-human skill transfer via mutual reinforcement learning (Sayanti Roy, Emily Kieson, Charles Abramson and Christopher Crick)&lt;/code&gt;&lt;/pre&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
+
+
+
+
+
+
+
+
 </description>
     </item>
     

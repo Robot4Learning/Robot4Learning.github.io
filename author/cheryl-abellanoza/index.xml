@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheryl	Abellanoza | Robots for Learning</title>
+    <link>https://Robot4Learning.github.io/author/cheryl-abellanoza/</link>
+      <atom:link href="https://Robot4Learning.github.io/author/cheryl-abellanoza/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cheryl	Abellanoza</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Robot4Learning.github.io/images/icon_huf57b02b7bccacf3d0d3f8179f8f9f2ab_6251_512x512_fill_lanczos_center_2.png</url>
+      <title>Cheryl	Abellanoza</title>
+      <link>https://Robot4Learning.github.io/author/cheryl-abellanoza/</link>
+    </image>
+    
+    <item>
+      <title>Towards Designing a Socially Assistive Robot for Adaptive and Personalized Cognitive Training</title>
+      <link>https://Robot4Learning.github.io/publication/hri2017/r4l_hri_2017_paper_2/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/publication/hri2017/r4l_hri_2017_paper_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

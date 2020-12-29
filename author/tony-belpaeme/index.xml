@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tony	Belpaeme | Robots for Learning</title>
+    <link>https://Robot4Learning.github.io/author/tony-belpaeme/</link>
+      <atom:link href="https://Robot4Learning.github.io/author/tony-belpaeme/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tony	Belpaeme</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Robot4Learning.github.io/images/icon_huf57b02b7bccacf3d0d3f8179f8f9f2ab_6251_512x512_fill_lanczos_center_2.png</url>
+      <title>Tony	Belpaeme</title>
+      <link>https://Robot4Learning.github.io/author/tony-belpaeme/</link>
+    </image>
+    
+    <item>
+      <title>The Cautious Attitude of Teachers Towards Social Robots in Schools</title>
+      <link>https://Robot4Learning.github.io/publication/roman2016/r4l_ro-man_2016_paper_3/</link>
+      <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/publication/roman2016/r4l_ro-man_2016_paper_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Repeating Tasks on Performance Levels in Mediated Child-Robot Interactions</title>
+      <link>https://Robot4Learning.github.io/publication/roman2016/r4l_ro-man_2016_paper_8/</link>
+      <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/publication/roman2016/r4l_ro-man_2016_paper_8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
