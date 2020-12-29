@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heather	Pon-Barry | Robots for Learning</title>
+    <link>https://Robot4Learning.github.io/author/heather-pon-barry/</link>
+      <atom:link href="https://Robot4Learning.github.io/author/heather-pon-barry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heather	Pon-Barry</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Robot4Learning.github.io/images/icon_huf57b02b7bccacf3d0d3f8179f8f9f2ab_6251_512x512_fill_lanczos_center_2.png</url>
+      <title>Heather	Pon-Barry</title>
+      <link>https://Robot4Learning.github.io/author/heather-pon-barry/</link>
+    </image>
+    
+    <item>
+      <title>A Multimodal Approach to Adaptive Dialogue Interaction for Learning Companion Robots</title>
+      <link>https://Robot4Learning.github.io/publication/hri2018/r4l_hri2018_paper_9/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/publication/hri2018/r4l_hri2018_paper_9/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
