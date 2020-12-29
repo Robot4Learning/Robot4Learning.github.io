@@ -2,8 +2,8 @@
   "name": "Robots for Learning",
   "short_name": "Robots for Learning",
   "lang": "en-us",
-  "theme_color": "#3f51b5",
-  "background_color": "#3f51b5",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
   "icons": [{
     "src": "/images/icon_huf57b02b7bccacf3d0d3f8179f8f9f2ab_6251_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
