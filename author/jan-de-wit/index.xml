@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jan	de Wit | Robots for Learning</title>
+    <link>https://Robot4Learning.github.io/author/jan-de-wit/</link>
+      <atom:link href="https://Robot4Learning.github.io/author/jan-de-wit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jan	de Wit</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Robot4Learning.github.io/images/icon_huf57b02b7bccacf3d0d3f8179f8f9f2ab_6251_512x512_fill_lanczos_center_2.png</url>
+      <title>Jan	de Wit</title>
+      <link>https://Robot4Learning.github.io/author/jan-de-wit/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the Effect of Gestures and Adaptive Tutoring on Children’s Comprehension of L2 Vocabularies</title>
+      <link>https://Robot4Learning.github.io/publication/hri2017/r4l_hri_2017_paper_8/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/publication/hri2017/r4l_hri_2017_paper_8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
