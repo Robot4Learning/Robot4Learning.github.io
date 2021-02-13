@@ -5,12 +5,80 @@
     <link>https://Robot4Learning.github.io/event/hri2021/</link>
       <atom:link href="https://Robot4Learning.github.io/event/hri2021/index.xml" rel="self" type="application/rss+xml" />
     <description>R4L @HRI 2021</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Robot4Learning.github.io/event/hri2021/featured.jpg</url>
       <title>R4L @HRI 2021</title>
       <link>https://Robot4Learning.github.io/event/hri2021/</link>
     </image>
+    
+    <item>
+      <title>Material</title>
+      <link>https://Robot4Learning.github.io/event/hri2021/material/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/event/hri2021/material/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRCMbf5uQdzwGvWmweHrr0MYLo9g3i-CXpHGwW0H0p131XjkNf_8TLlqJKtc7zX0wyCBy7JvB1bJtkI/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;pre-workshop-quiz&#34;&gt;Pre-Workshop Quiz&lt;/h1&gt;
+&lt;p&gt;Quiz for participants&lt;/p&gt;
+&lt;h1 id=&#34;reading-material&#34;&gt;Reading Material&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Program - R4L@HRI 2021</title>
+      <link>https://Robot4Learning.github.io/event/hri2021/program/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/event/hri2021/program/</guid>
+      <description>&lt;h2 id=&#34;venue&#34;&gt;Venue&lt;/h2&gt;
+&lt;p&gt;March 12th 2021 PM, on Hopin&lt;/p&gt;
+&lt;h2 id=&#34;provisional-schedule&#34;&gt;Provisional schedule&lt;/h2&gt;
+&lt;p&gt;We present below the schedule for the workshop.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;15min&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;30min&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Sprint Pitches&lt;/strong&gt; &lt;br&gt;  Participants who submitted present the background of their work in a 2min pitch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;40min&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Panel&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Perspectives for social robots in learning&lt;/em&gt; &lt;br&gt; Hae Won Park (MIT, USA)  and Tony Belpaeme (U. Ghent, Belgium)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10min&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;short break&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10min intro &lt;br&gt; 40min group work &lt;br&gt; 10min discussion&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Design&lt;/strong&gt; &lt;br&gt; What? When? Who? Why? &lt;br&gt; Using backward design process  &lt;br&gt; Integrating the robot  &lt;br&gt; Adapting to students&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5min&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;short break&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10min intro  &lt;br&gt; 40min group work &lt;br&gt; 10min discussion&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Evaluation&lt;/strong&gt; &lt;br&gt; How can we do the assessment before, during and after the experiment? &lt;br&gt; Learning gain, process analysis, self-reports, student knowledge modeling behavioural analysis, social signal processing, affective computing.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;30min&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Call for Participation</title>
@@ -29,20 +97,24 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Early Bird Submission Deadline&lt;/td&gt;
-&lt;td&gt;January 25, 2021 AoE ✨&lt;/td&gt;
+&lt;td&gt;Early Bird Submission Deadline**&lt;/td&gt;
+&lt;td&gt;January 25, 2021 AoE&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Early Bird Acceptance notification&lt;/td&gt;
 &lt;td&gt;January 30, 2021&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;General Submission Deadline&lt;/td&gt;
-&lt;td&gt;February 17, 2021&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;General Submission Deadline&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;February 17, 2021&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;General Acceptance notification&lt;/td&gt;
 &lt;td&gt;February 23, 2021&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Camera Ready&lt;/td&gt;
+&lt;td&gt;March 2, 2021&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Workshop event&lt;/strong&gt;&lt;/td&gt;
@@ -50,7 +122,6 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;✨ &lt;em&gt;(to be able to register at low rate)&lt;/em&gt;&lt;/p&gt;
 &lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
 &lt;p&gt;Imagine a person engaged in a learning activity, be it solving math exercises with pen and paper or practicing a second language by playing a memory game with a social robot. In both cases, the activity has superficial, visible goals (to find the solution of the equation, to score more points than the other player) covering the deeper, more elusive goal of helping the person learn. In the specific case of learning activities involving social robot, this double-layered structure makes the design of the robot’s behaviour a fascinating challenge: while it is relatively straightforward to design a robot that’s a fierce competitor at a memory game, it is much less clear to envision how it should behave to support its human counterpart in learning. Similarly, the design of the experiment allowing for evaluating the robot’s behaviour, as well as the robot-enhanced learning activity as a whole, becomes at once crucial and non trivial.&lt;/p&gt;
 &lt;p&gt;In this 6th edition of the “Robots for Learning” workshop, international experts in the field will share their knowledge concerning the design of social robot behaviours which support learning, their embedding in a learning activity and the evaluation of their impact through an experiment and the assessment of the person’s learning. The workshop is organized as a highly interactive event, in which participants are encouraged to bring case studies taken from their own research and discuss them in groups and with the experts.&lt;/p&gt;
@@ -99,84 +170,6 @@ The submissions are done via the online form:
 &lt;li&gt;Robots for learners with special needs and special abilities&lt;/li&gt;
 &lt;li&gt;Privacy and ethical issues in robot tutoring applications&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Material</title>
-      <link>https://Robot4Learning.github.io/event/hri2021/material/</link>
-      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://Robot4Learning.github.io/event/hri2021/material/</guid>
-      <description>&lt;h1 id=&#34;reading-material&#34;&gt;Reading Material&lt;/h1&gt;
-&lt;h2 id=&#34;unit1---background&#34;&gt;&lt;strong&gt;Unit1 - Background&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;What do we know so far from the state of the art?&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Learning Theories and Technologies for Learning&lt;/li&gt;
-&lt;li&gt;Robots in Education&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTqsrIMyAjobcEjlZWkrZR8mKlbvxibwUNX05LHlz03xSrUIGmYwVmE_yHYuwV3E4juAG46Q6sh0-bk/embed?start=true&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;unit-2---design&#34;&gt;&lt;strong&gt;Unit 2 - Design&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;What? When? Who? Why? &lt;br&gt; Using backward design process  &lt;br&gt; Integrating the robot  &lt;br&gt; Adapting to students&lt;/p&gt;
-&lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTgWn7_4kVxqY34KA_JLrQ7oQ5d9VJQwpC3mx-T7tNYRxXlfSpYA4gcLX0of5_I3oP7mKlDQA7mo77a/embed?start=true&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;unit-3---evaluation&#34;&gt;&lt;strong&gt;Unit 3 - Evaluation&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;How can we do the assessment before, during and after the experiment? &lt;br&gt; Learning gain, process analysis, self-reports, student knowledge modeling behavioural analysis, social signal processing, affective computing.&lt;/p&gt;
-&lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTJ35KPuAcj5APtd-MQQp_HJda9wYhFcYwYpf-TX4x35suC851BvHmN4an3p8ATbrH7_NNDs698XcIT/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;h1 id=&#34;pre-workshop-quiz&#34;&gt;Pre-Workshop Quiz&lt;/h1&gt;
-&lt;p&gt;Quiz for participants&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>R4L @HRI 2021</title>
-      <link>https://Robot4Learning.github.io/event/hri2021/program/</link>
-      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://Robot4Learning.github.io/event/hri2021/program/</guid>
-      <description>&lt;h1 id=&#34;provisional-schedule&#34;&gt;Provisional schedule&lt;/h1&gt;
-&lt;p&gt;We present below the schedule for the workshop. Depending on the registered participants, we will align the schedule to the adequate time zones. We also investigate the possibility of having the workshop in several instances to suit several time zones. The keynotes times will be fixed, but the rest is kept open depending on participants.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;20min&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;30+15min&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Keynote 1&lt;/strong&gt;: Cases of Social Robots in Education &lt;br&gt; Hae Won Park (MIT, USA) - confirmed&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20min intro &lt;br&gt; 30min group work &lt;br&gt; 10min discussion&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Unit1 - Background&lt;/strong&gt; &lt;br&gt; What do we know so far from the state of the art? &lt;br&gt; Learning Theories and Technologies for Learning &lt;br&gt; Robots in Education&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20min intro &lt;br&gt; 30min group work &lt;br&gt; 10min discussion&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Unit 2 - Design&lt;/strong&gt; &lt;br&gt; What? When? Who? Why? &lt;br&gt; Using backward design process  &lt;br&gt; Integrating the robot  &lt;br&gt; Adapting to students&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20min intro  &lt;br&gt; 30min group work &lt;br&gt; 10min discussion&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Unit 3 - Evaluation&lt;/strong&gt; &lt;br&gt; How can we do the assessment before, during and after the experiment? &lt;br&gt; Learning gain, process analysis, self-reports, student knowledge modeling behavioural analysis, social signal processing, affective computing.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;30+15min&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Keynote 2&lt;/strong&gt;: Perspectives for social robots in learning &lt;br&gt; Tony Belpaeme (U. Ghent, Belgium) - confirmed&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;30min&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 </description>
     </item>
     
