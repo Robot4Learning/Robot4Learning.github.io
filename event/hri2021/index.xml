@@ -44,7 +44,7 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;15min&lt;/td&gt;
+&lt;td&gt;5min&lt;/td&gt;
 &lt;td&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -53,10 +53,10 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;40min&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Panel&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Perspectives for social robots in learning&lt;/em&gt; &lt;br&gt; Hae Won Park (MIT, USA)  and Tony Belpaeme (U. Ghent, Belgium)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Panel&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Perspectives for social robots in learning&lt;/em&gt; &lt;br&gt; Hae Won Park (MIT, USA),  Tony Belpaeme (U. Ghent, Belgium)  and Jennifer K. Olsen (University of San Diego, USA)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;10min&lt;/td&gt;
+&lt;td&gt;5min&lt;/td&gt;
 &lt;td&gt;&lt;em&gt;short break&lt;/em&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -77,6 +77,20 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;h2 id=&#34;accepted-papers&#34;&gt;Accepted Papers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Robot Teaching for Human Inverse Reinforcement Learning&lt;/em&gt;	Michael S. Lee, Henny Admoni, Reid Simmons&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;A Social Robot that looks for Productive Engagement&lt;/em&gt;	Jauwairia Nasir, Barbara Bruno, Pierre Dillenbourg&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;STEMMates: Exploring the use of companion robots with socially situated interest supports for in-home science reading&lt;/em&gt;	Joseph E Michaelis&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;THE IRECHECK PROJECT- A SOCIAL ROBOT HELPING CHILDREN WITH DYSGRAPHIA IN A LEARNING-BY-TEACHING SCENARIO&lt;/em&gt;	Jianling ZOU, Soizic GAUTHIER, Dominique ARCHAMBAULT, Salvatore M. ANZALONE, David COHEN&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Mutual Modelling Ability for a Humanoid Robot: How can it improve my learning as we solve a problem together?&lt;/em&gt;	Utku Norman, Barbara Bruno, Pierre Dillenbourg&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Telerobots for Informal Learning in Schools&lt;/em&gt;	Veronica Ahumada-Newhart, Laurel Riek&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Teaching grounded reading skills via an interactive robot tutor&lt;/em&gt;	Kayleigh Bishop, Bradley Hayes, Alessandro Roncone&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;CoWriting Kazakh: Efficacy of a Long-term Robotic Agent in a Physical vs Virtual Embodiment&lt;/em&gt;	Aida Amirova and Anara Sandygulova&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Reducing communication failures in robot education&lt;/em&gt;	Ronald Cumbal, Olov Engwall, José Lopes&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Virtual Characters versus Social Robots: Towards a comparative study of Social Agents for Teaching English.&lt;/em&gt;	Eduardo B. Sandoval; Diego Vazquez Rojas; Clarissa Parada; Alvaro Anzueto Rios&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;CozmoNAOts: A Computational Thinking Learning Task&lt;/em&gt;	Rebecca Stower&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
