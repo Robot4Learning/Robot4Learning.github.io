@@ -32,7 +32,7 @@
       <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://Robot4Learning.github.io/event/hri2021/program/</guid>
       <description>&lt;h2 id=&#34;venue&#34;&gt;Venue&lt;/h2&gt;
-&lt;p&gt;March 12th 2021 PM, on Hopin&lt;/p&gt;
+&lt;p&gt;March 12th 2021 PM, on Hopin / Zoom&lt;/p&gt;
 &lt;h2 id=&#34;provisional-schedule&#34;&gt;Provisional schedule&lt;/h2&gt;
 &lt;p&gt;We present below the schedule for the workshop.&lt;/p&gt;
 &lt;table&gt;
@@ -79,17 +79,28 @@
 &lt;/table&gt;
 &lt;h2 id=&#34;accepted-papers&#34;&gt;Accepted Papers&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Robot Teaching for Human Inverse Reinforcement Learning&lt;/em&gt;	Michael S. Lee, Henny Admoni, Reid Simmons&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;A Social Robot that looks for Productive Engagement&lt;/em&gt;	Jauwairia Nasir, Barbara Bruno, Pierre Dillenbourg&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;STEMMates: Exploring the use of companion robots with socially situated interest supports for in-home science reading&lt;/em&gt;	Joseph E Michaelis&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;THE IRECHECK PROJECT- A SOCIAL ROBOT HELPING CHILDREN WITH DYSGRAPHIA IN A LEARNING-BY-TEACHING SCENARIO&lt;/em&gt;	Jianling ZOU, Soizic GAUTHIER, Dominique ARCHAMBAULT, Salvatore M. ANZALONE, David COHEN&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Mutual Modelling Ability for a Humanoid Robot: How can it improve my learning as we solve a problem together?&lt;/em&gt;	Utku Norman, Barbara Bruno, Pierre Dillenbourg&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Telerobots for Informal Learning in Schools&lt;/em&gt;	Veronica Ahumada-Newhart, Laurel Riek&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Teaching grounded reading skills via an interactive robot tutor&lt;/em&gt;	Kayleigh Bishop, Bradley Hayes, Alessandro Roncone&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;CoWriting Kazakh: Efficacy of a Long-term Robotic Agent in a Physical vs Virtual Embodiment&lt;/em&gt;	Aida Amirova and Anara Sandygulova&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Reducing communication failures in robot education&lt;/em&gt;	Ronald Cumbal, Olov Engwall, José Lopes&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Virtual Characters versus Social Robots: Towards a comparative study of Social Agents for Teaching English.&lt;/em&gt;	Eduardo B. Sandoval; Diego Vazquez Rojas; Clarissa Parada; Alvaro Anzueto Rios&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;CozmoNAOts: A Computational Thinking Learning Task&lt;/em&gt;	Rebecca Stower&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://Robot4Learning.github.io/publication/HRI2021/R4L-HRI2021_Lee.pdf&#34; target=&#34;_blank&#34;&gt; &lt;em&gt;Robot Teaching for Human Inverse Reinforcement Learning&lt;/em&gt; &lt;/a&gt;,
+&lt;br&gt; Michael S. Lee, Henny Admoni, Reid Simmons&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://Robot4Learning.github.io/publication/HRI2021/R4L-HRI2021_Nasir.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;A Social Robot that looks for Productive Engagement&lt;/em&gt;&lt;/a&gt;,
+&lt;br&gt;  Jauwairia Nasir, Barbara Bruno, Pierre Dillenbourg&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://Robot4Learning.github.io/publication/HRI2021/R4L-HRI2021_Michaelis.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;STEMMates: Exploring the use of companion robots with socially situated interest supports for in-home science reading&lt;/em&gt;&lt;/a&gt;,
+&lt;br&gt; 	Joseph E Michaelis&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://Robot4Learning.github.io/publication/HRI2021/R4L-HRI2021_Zou.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;THE IRECHECK PROJECT- A SOCIAL ROBOT HELPING CHILDREN WITH DYSGRAPHIA IN A LEARNING-BY-TEACHING SCENARIO&lt;/em&gt;&lt;/a&gt;,
+&lt;br&gt; 	Jianling ZOU, Soizic GAUTHIER, Dominique ARCHAMBAULT, Salvatore M. ANZALONE, David COHEN&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://Robot4Learning.github.io/publication/HRI2021/R4L-HRI2021_Norman.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Mutual Modelling Ability for a Humanoid Robot: How can it improve my learning as we solve a problem together?&lt;/em&gt;&lt;/a&gt;,
+&lt;br&gt; 	Utku Norman, Barbara Bruno, Pierre Dillenbourg&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://Robot4Learning.github.io/publication/HRI2021/R4L-HRI2021_Newhart.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Telerobots for Informal Learning in Schools&lt;/em&gt;&lt;/a&gt;,
+&lt;br&gt; 	Veronica Ahumada-Newhart, Laurel Riek&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://Robot4Learning.github.io/publication/HRI2021/R4L-HRI2021_Bishop.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Teaching grounded reading skills via an interactive robot tutor&lt;/em&gt;&lt;/a&gt;,
+&lt;br&gt;	Kayleigh Bishop, Bradley Hayes, Alessandro Roncone&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://Robot4Learning.github.io/publication/HRI2021/R4L-HRI2021_Sandygulova.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;CoWriting Kazakh: Efficacy of a Long-term Robotic Agent in a Physical vs Virtual Embodiment&lt;/em&gt;&lt;/a&gt;,
+&lt;br&gt; 	Aida Amirova and Anara Sandygulova&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://Robot4Learning.github.io/publication/HRI2021/R4L-HRI2021_Cumbal.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Reducing communication failures in robot education&lt;/em&gt;&lt;/a&gt;,
+&lt;br&gt; 	Ronald Cumbal, Olov Engwall, José Lopes&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://Robot4Learning.github.io/publication/HRI2021/R4L-HRI2021_Sandoval.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Virtual Characters versus Social Robots: Towards a comparative study of Social Agents for Teaching English.&lt;/em&gt;&lt;/a&gt;,
+&lt;br&gt; 	Eduardo B. Sandoval; Diego Vazquez Rojas; Clarissa Parada; Alvaro Anzueto Rios&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://Robot4Learning.github.io/publication/HRI2021/R4L-HRI2021_Stower.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;CozmoNAOts: A Computational Thinking Learning Task&lt;/em&gt;&lt;/a&gt;,
+&lt;br&gt; 	Rebecca Stower, Arvid Kappas&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
